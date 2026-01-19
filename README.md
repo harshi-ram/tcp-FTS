@@ -15,10 +15,11 @@ Technologies Used:
 - Tkinter
 
 Project Structure:
-/tcp-FTS
-  - tcp_client.py (GUI-based client)
-  - tcp_server.py (Multithreaded TCP server)
-  - server_files (where uploaded files are stored)
+
+|tcp-FTS
+  | tcp_client.py (GUI-based client)
+  | tcp_server.py (Multithreaded TCP server)
+  | server_files (where uploaded files are stored)
 
 Running the Project:
 1. Go to project root directory on the command line.
